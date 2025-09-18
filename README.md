@@ -20,10 +20,8 @@
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## 📊 Contribuições
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRennan-Nascimento=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiRennan-Nascimento=anuraghazra&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
   ## 📨 Entre em contato comigo!
  <a href="https://www.linkedin.com/in/rennannascimento/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
